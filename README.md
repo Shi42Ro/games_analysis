@@ -1,4 +1,4 @@
-# games_analysis
+# UNCOVERING THE KEY FACTORS INFLUENCING VIDEO GAME SUCCESS
 # Data
 > - Name (The title of each video game)
 > - Platform (The gaming platform or console on which the game is available)
